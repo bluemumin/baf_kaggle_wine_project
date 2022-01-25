@@ -3,7 +3,8 @@
 This data's original url is <https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009>
 
 - 수행자
-김경록(전체과정 단독 수행)
+
+ <p> 김경록(전체과정 단독 수행) </p>
 
 - 사용언어 / 핵심 라이브러리
  <p> python / Pandas, matplotlib, seaborn, sklearn, LightGBM  </p>
