@@ -1,11 +1,6 @@
-## 소개
+## 레드 와인 품질 분류
 
 This data's original url is <https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009>
-
-I only write this code for python tutorial for one years ago
-
--이미지 요약 내용
-![image](https://user-images.githubusercontent.com/53479967/118829938-886acc00-b8f9-11eb-8baa-f87430a1e448.png)
 
 - 수행자
 김경록(전체과정 단독 수행)
@@ -30,3 +25,6 @@ I only write this code for python tutorial for one years ago
 		- 기본 버전 및 paramter 개선을 통해 정확도, auc 개선 사항 확인 <br/>
 		- 전반적인 머신러닝 flow 학습 및 파이썬 기초 코딩 능력 습득 <br/>
 		- 피드백 : 반응변수(와인 품질)에 대한 개선 방안 미 제시(ex - 변수 importance를 통한 변수 중요도 미 제시)<p/>
+
+- 이미지 요약 내용
+![image](https://user-images.githubusercontent.com/53479967/118829938-886acc00-b8f9-11eb-8baa-f87430a1e448.png)
